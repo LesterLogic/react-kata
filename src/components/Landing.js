@@ -3,7 +3,8 @@ import React from "react";
 const Landing = () => {
   return (
     <div>
-      <h1 style={{ textAlign: "center" }}>Welcome</h1>
+      <h1>Congratulations!</h1>
+      <a href="/" target="_blank">Show welcome screen (opens in new window/tab)</a>
     </div>
   );
 };
